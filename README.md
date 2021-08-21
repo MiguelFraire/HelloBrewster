@@ -13,8 +13,11 @@ You can find it [here](https://apps.apple.com/us/app/hello-brewster/id1574235179
 - It's deployed to the App Store with a premium version as non-consumable in-app purchase. I will probably remove this and look into running ads instead.
 - More optimizations will be integrated soon
 
+## Images
+<img src=https://github.com/MiguelFraire/HelloBrewster/blob/main/HBAssets/map.PNG  width="195" height="422" hspace="20"> <img src=https://github.com/MiguelFraire/HelloBrewster/blob/main/HBAssets/details.PNG  width="195" height="422" hspace="20"> <img src=https://github.com/MiguelFraire/HelloBrewster/blob/main/HBAssets/profile.PNG  width="195" height="422" hspace="20">
+
 ## Contributing
-Codebase is privated.
+Codebase is private.
 
 ## License
 All Rights Reserved.
